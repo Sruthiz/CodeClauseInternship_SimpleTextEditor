@@ -10,7 +10,6 @@ Features:
 - Choose from different fonts and apply them to selected text.
 - Change text color and background highlighting.
 - Undo and redo functionality to manage changes.
-- Adjust text size for better readability.
 
 Technologies:
 HTML, CSS, JavaScript, Bootstrap
@@ -24,7 +23,7 @@ Usage:
 Purpose:
 Created to showcase basic text formatting and manipulation using web technologies.
 
-GitHub Pages Demo: [Live Demo]
+
 
 Credits:
 - Bootstrap for styling components.
